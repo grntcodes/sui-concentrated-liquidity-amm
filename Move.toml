@@ -1,0 +1,5 @@
+[package]
+name = "concentrated_liquidity_amm"
+version = "1.0.0"
+[addresses]
+amm = "0x0"
