@@ -18,3 +18,4 @@
 // Update at 2025-09-12 04:58:16: feat: add multi-hop swap support
 // Update at 2025-08-14 09:57:31: docs: update integration examples
 // Update at 2025-09-19 17:35:45: perf: optimize memory allocation in hot paths
+// Update at 2025-08-29 00:44:16: feat: optimize transaction batching
