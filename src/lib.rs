@@ -4,3 +4,4 @@
 // Update at 2025-09-05 06:09:01: docs: update integration examples
 // Update at 2025-09-29 03:43:47: docs: add deployment guide
 // Update at 2025-09-15 16:40:39: feat: implement concentrated liquidity positions
+// Update at 2025-09-29 06:08:13: fix: resolve rounding errors in tick math
